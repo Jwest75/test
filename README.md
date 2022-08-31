@@ -1,3 +1,3 @@
 ### test ###
 
-This is my first push to githu,yo!
+This is my first push to github,yo!
